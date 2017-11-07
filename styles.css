@@ -1,8 +1,15 @@
 img {
     width: 300px;
+   
 }
 
 body {
     text-align: center;
     font-family: "Arial";
+    background-image: url("http://assets.nydailynews.com/polopoly_fs/1.1809102.1401315970!/img/httpImage/image.jpg_gen/derivatives/article_750/135456154.jpg");
 }
+
+.img-circle {
+    border-radius: 85%;
+}
+
