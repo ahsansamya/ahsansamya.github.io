@@ -1,0 +1,9 @@
+#easy {
+  width: 800px;
+  height: 800px;
+  border-radius: 200px;
+  border-color: red;
+  background-color: red;
+  font-size: 50px;
+  color: white;
+}
